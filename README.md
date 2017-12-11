@@ -1,4 +1,4 @@
-# NIPS 2017
+# NIPS 2017 !
 
 <p align="center"><img width="50%" src="nips_2017.jpg" /></p>
 
